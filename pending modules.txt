@@ -1,0 +1,5 @@
+Batch -1
+Hospital Managment System
+  Pending Modules:
+    1. setting Limit 5 for patients when mapping doctor to patient.
+    2.Bill Geneartion
